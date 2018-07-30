@@ -2,10 +2,11 @@
 The case study is based on time series. It involves predicting various crypto currency prices using machine learning. The data consists of time-series of different cryptocurrencies with open, high, low, close prices and volumes from different crypto exchanges.
 
 # Team Members (Occam's Data Ninjas):
-Mervyn V. Akash @mervynakash 
-Tanuj Maithani @noir976 
-Tamma Ravindra Reddy @ravindrareddytamma 
-Sowmya Dyagala @SowmyaDagala 
+- Mervyn V. Akash @mervynakash 
+- Tanuj Maithani @noir976 
+- Tamma Ravindra Reddy @ravindrareddytamma 
+- Sowmya Dyagala @SowmyaDagala 
+- Vijay Baby Joseph @vijaybabyjoseph
 
 # Data Understanding: 
 The data was provided in the format of .csv files. The data contains the information regarding the 687 cryptocurrencies, whose individual parameters such as opening value, closing value, low, high, volume are provided as individual files. There are 2 Consolidated files that have the summary information regarding the price of each bitcoin captured for every 5 minutes interval from 17th Jan 2018 to 23rd Mar 2018. The ID’s of each crypto-currenciy and the names of each crypto-currency are provided in another consolidated file.
